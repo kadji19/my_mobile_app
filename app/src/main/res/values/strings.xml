@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">my app</string>
+    <string name="parametre">Parametre</string>
+    <string name="userName">Nom d\'utilisateur</string>
+    <string name="actu">Actu</string>
+    <string name="Compte">Compte</string>
+    <string name="Discussions">Discussions</string>
+    <string name="Notification">Notification</string>
+    <string name="utilisationDonne">donnée et stockage</string>
+    <string name="langage">Langage</string>
+    <string name="Aide">Aide</string>
+    <string name="comptText">Notification de sécurité, changer de numéro</string>
+    <string name="discussionText">Thème, fonds d\'ecran, historique des discussion</string>
+    <string name="notificationText">Sonneries des message, groupes et appels</string>
+    <string name="utilisationText">Utilisation réseau, téléchargement auto</string>
+    <string name="langageText">Français (langue du téléphone)</string>
+    <string name="aideText">Centre d\'aide, contactez nous, politique de confidentialité</string>
+    <string name="nom_d_utilisateur">nom d\'utilisateur</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="inscription">Inscription</string>
+    <string name="nom_et_pr_nom">Nom prenom</string>
+    <string name="tel">Telephone</string>
+    <string name="confirmer_mot_de_passe">Confirmer mot de passe</string>
+    <string name="valider">Valider</string>
+    <string name="se_connecter">Se connecter</string>
+</resources>
